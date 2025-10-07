@@ -1,6 +1,11 @@
 [package]
 name = "logbull"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
+description = "A modern logging library for sending structured logs to LogBull"
+license = "MIT"
+repository = "https://github.com/logbull/logbull"
+keywords = ["logging", "logbull", "structured-logging"]
+categories = ["development-tools::debugging"]
 
 [dependencies]
